@@ -1,0 +1,6 @@
+**/.terraform/*
+terraform.state.*
+.terraform.lock.hcl
+*.tfstate
+.tfstate.
+.DS_Store
